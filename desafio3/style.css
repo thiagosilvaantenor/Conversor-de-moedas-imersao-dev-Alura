@@ -1,0 +1,86 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  min-height: 400px;
+  background-image: url('https://c.tenor.com/0pIXKlVz4FIAAAAC/thermometer-degrees.gif');
+  background-color: #5432c5f0;
+  background-size: 100vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: white;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  color: #ffffff;
+}
+
+#btn-celcius-fahrenheint {
+  background: #228d57;
+}
+
+#btn-celcius-kelvin {
+  background: #5d7ea7;
+}
+
+#btn-fahrenheint-celcius {
+  background: #55c2da;
+}
+
+#btn-fahrenheint-kelvin {
+  background: #a881af;
+}
+
+#btn-kelvin-celcius {
+  background: #dd7973;
+}
+
+#btn-kelvin-fahrenheint {
+  background: #ffbd03;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 30px;
+}
+
+label,p {
+  font-size: 24px;
+}
