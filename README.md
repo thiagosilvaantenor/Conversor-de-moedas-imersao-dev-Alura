@@ -52,7 +52,6 @@ Para abrir o projeto ou os desafios, basta abrir o arquivo com estensão html, s
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [CodePen](https://codepen.io)
-- [Persona 5 Dialogue Generator by Chris Kopcow](https://github.com/opennoise1/p5-dialogue-generator)
 
 ## Agradecimentos
 Agradeço a Rafaella Ballerini, Guilherme Lima, Paulo Silveira e a Alura por todo conhecimento passado
